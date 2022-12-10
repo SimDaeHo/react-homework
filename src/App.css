@@ -1,0 +1,153 @@
+.simBack {
+  background-color: rgba(197, 190, 83, 0.3);
+  width: 96%;
+  height: 930px;
+  margin: auto;
+  border-radius: 50px;
+}
+
+.simList {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  padding-top: 40px;
+}
+
+.simForm {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(240, 233, 112, 0.3);
+  border-radius: 20px;
+  width: 70%;
+  padding: 50px;
+  margin: auto;
+}
+
+.simTitle {
+  position: absolute;
+  left: 120px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.simText {
+  position: absolute;
+  left: 200px;
+  border-radius: 20px;
+  width: 300px;
+  height: 50px;
+  border: none;
+}
+
+.simContent {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.simText1 {
+  position: absolute;
+  right: 320px;
+  border-radius: 20px;
+  width: 300px;
+  height: 50px;
+  border: none;
+}
+
+.simBtn {
+  position: absolute;
+  right: 50px;
+  font-size: 15px;
+  font-weight: bold;
+  border: none;
+  width: 100px;
+  height: 50px;
+  border-radius: 20px;
+  background-color: rgba(91, 201, 115, 0.3);
+}
+
+.simBtn:hover {
+  border: 3px solid rgba(13, 99, 11, 0.3);
+}
+
+.simWork {
+  margin-left: 250px;
+  margin-top: 40px;
+}
+
+.simTodo-1 {
+  width: 300px;
+  height: 200px;
+  border: 5px solid rgba(13, 99, 11, 0.3);
+  border-radius: 10px;
+  box-shadow: 0px 0px 44px 4px rgba(52, 115, 89, 0.75);
+  -webkit-box-shadow: 0px 0px 44px 4px rgba(52, 115, 89, 0.75);
+  -moz-box-shadow: 0px 0px 44px 4px rgba(52, 115, 89, 0.75);
+  margin-left: 250px;
+  margin-top: 50px;
+}
+
+.simDone {
+  margin-left: 250px;
+  margin-top: 50px;
+}
+
+.simTodo-2 {
+  position: relative;
+  top: -100px;
+  width: 300px;
+  height: 200px;
+  border: 5px solid rgba(13, 99, 11, 0.3);
+  border-radius: 10px;
+  box-shadow: 0px 0px 44px 4px rgba(52, 115, 89, 0.75);
+  -webkit-box-shadow: 0px 0px 44px 4px rgba(52, 115, 89, 0.75);
+  -moz-box-shadow: 0px 0px 44px 4px rgba(52, 115, 89, 0.75);
+  margin-left: 250px;
+  margin-top: 150px;
+}
+
+.simTodo-1 > h2 {
+  margin-left: 20px;
+}
+
+.simTodo-1 > p {
+  margin-left: 20px;
+}
+
+.simBtn-2 > button {
+  border: none;
+  border-radius: 10px;
+  width: 120px;
+  height: 40px;
+  margin-left: 20px;
+  margin-top: 30px;
+  background-color: rgba(91, 201, 115, 0.3);
+}
+
+.simBtn-2 > button:hover {
+  border: 3px solid rgba(13, 99, 11, 0.3);
+}
+
+.simTodo-2 > h2 {
+  margin-left: 20px;
+}
+
+.simTodo-2 > p {
+  margin-left: 20px;
+}
+
+.simBtn-3 > button {
+  border: none;
+  border-radius: 10px;
+  width: 120px;
+  height: 40px;
+  margin-left: 20px;
+  margin-top: 30px;
+  background-color: rgba(91, 201, 115, 0.3);
+}
+
+.simBtn-3 > button:hover {
+  border: 3px solid rgba(13, 99, 11, 0.3);
+}
