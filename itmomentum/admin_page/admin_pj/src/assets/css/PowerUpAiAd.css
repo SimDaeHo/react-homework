@@ -1,0 +1,2993 @@
+.css-rvlrt-StyledPageHeader {
+    background-color: rgb(255, 255, 255);
+    border-bottom: 1px solid rgb(234, 234, 252);
+}
+.css-28uhrc-StyledContent {
+    position: relative;
+}
+.css-1990w8e {
+    display: flex;
+    flex-direction: column;
+    padding: 32px 48px;
+}
+.css-1ir6wju {
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 700;
+}
+.pds-text {
+    margin: 0px;
+}
+.css-mryvv2-StyledContainer {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 90px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    padding-right: 50px;
+    margin: -30px 0px;
+}
+.css-117gmg0-StyledLogoContainer {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-ua9ma8-SiteIcon {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin: 0px 4px 0px 0px;
+}
+.css-117gmg0-StyledLogoContainer .texts {
+    display: flex;
+    margin-left: 12px;
+    flex-direction: column;
+}
+.css-117gmg0-StyledLogoContainer .texts__title {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 700;
+    color: rgb(54, 54, 68);
+}
+.css-117gmg0-StyledLogoContainer .texts__desc {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(120, 120, 135);
+}
+.css-117gmg0-StyledLogoContainer .texts__desc a {
+    border-left: 1px solid rgb(231, 231, 237);
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(54, 54, 68);
+    margin-left: 8px;
+    padding-left: 8px;
+}
+.css-hnkvi9-StyledHelp {
+    display: flex;
+    align-self: flex-start;
+    padding-top: 16px;
+    line-height: 0px !important;
+}
+a:visited {
+    color: #3a5be7;
+}
+.css-199dy4p {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(255, 52, 156);
+}
+.css-1q1i7h7-StyledDivider {
+    width: 1px;
+    height: 14px;
+    background-color: rgb(231, 231, 237);
+    margin: 5px 14px 0px;
+}
+.css-hnkvi9-StyledHelp > button {
+    background: none;
+    border: none;
+    padding: 0px;
+    cursor: pointer;
+}
+.css-102xykj {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(120, 120, 135);
+}
+.pastel-ui-text {
+    margin: 0px;
+}
+.css-1q1i7h7-StyledDivider {
+    width: 1px;
+    height: 14px;
+    background-color: rgb(231, 231, 237);
+    margin: 5px 14px 0px;
+}
+a {
+    text-decoration: none;
+}
+.css-102xykj {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(120, 120, 135);
+}
+.css-1rvy5wx-StyledAdDisplayMain {
+    min-width: 1030px;
+}
+.css-kbqte9-TopMenu {
+    display: flex;
+    padding: 0px 50px;
+    height: 52px;
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: white;
+}
+ol,
+ul {
+    list-style: none;
+}
+.css-1uib378-StyledLinkItem:first-child {
+    margin-right: 24px;
+}
+.css-1uib378-StyledLinkItem {
+    position: relative;
+}
+.css-1uib378-StyledLinkItem a {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    background: transparent;
+    outline: none;
+    cursor: pointer;
+    font-size: 15px;
+    line-height: 26px;
+    font-weight: 700;
+    color: rgb(255, 52, 156);
+}
+a:visited {
+    color: #3a5be7;
+}
+.css-1uib378-StyledLinkItem a::after {
+    content: "";
+    position: absolute;
+    display: block;
+    bottom: -13px;
+    width: 56px;
+    height: 4px;
+    background-color: rgb(255, 52, 156);
+}
+.css-11x5vkj-StyledLinkItem {
+    position: relative;
+}
+.css-11x5vkj-StyledLinkItem a {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    background: transparent;
+    outline: none;
+    cursor: pointer;
+    font-size: 15px;
+    line-height: 26px;
+    font-weight: 700;
+    color: rgb(54, 54, 68);
+}
+.css-11x5vkj-StyledLinkItem a::after {
+    content: "";
+    position: absolute;
+    display: block;
+    bottom: -13px;
+    width: 73px;
+    height: 4px;
+    background-color: white;
+}
+.css-11x5vkj-StyledLinkItem svg {
+    position: absolute;
+    top: 2px;
+    right: -9px;
+}
+.css-1n8ugql-StyledCard {
+    margin: 20px;
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(231, 231, 237);
+}
+.css-1n8ugql-StyledCard .card-content {
+    display: flex;
+}
+.css-11n944y-StayledControlBoard {
+    flex: 1 1 0%;
+    background: rgb(255, 255, 255);
+    border-right: 1px solid rgb(231, 231, 237);
+    padding: 18px 16px 14px 28px;
+}
+.css-11n944y-StayledControlBoard .header {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+.css-11n944y-StayledControlBoard .header__title {
+    font-weight: 700;
+    font-size: 17px;
+    letter-spacing: -0.3px;
+    color: rgb(54, 54, 68);
+}
+.css-1iicmca-action {
+    position: relative;
+    display: inline-flex;
+    vertical-align: top;
+    -webkit-box-align: center;
+    align-items: center;
+    font-size: 11px;
+    border-radius: 20px;
+    transition: background-color 0.2s ease 0s;
+    border: none;
+    opacity: 1;
+    cursor: pointer;
+    height: 32px;
+    padding: 2px 34px 2px 5px;
+    font-weight: 700;
+    background: rgb(71, 105, 247);
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
+.css-1iicmca-action::after {
+    width: 28px;
+    height: 28px;
+    top: 2px;
+    right: 2px;
+}
+.css-1iicmca-action::after {
+    position: absolute;
+    content: "";
+    background: rgb(255, 255, 255);
+    display: block;
+    border-radius: 50%;
+}
+.css-11n944y-StayledControlBoard .content {
+    padding-top: 8px;
+    color: rgb(120, 120, 135);
+    font-size: 15px;
+    line-height: 26px;
+    font-weight: 500;
+}
+.css-11n944y-StayledControlBoard .detail {
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 400;
+    color: rgb(170, 170, 183);
+}
+.css-11n944y-StayledControlBoard {
+    flex: 1 1 0%;
+    background: rgb(255, 255, 255);
+    border-right: 1px solid rgb(231, 231, 237);
+    padding: 18px 16px 14px 28px;
+}
+.css-11n944y-StayledControlBoard .header {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+.css-11n944y-StayledControlBoard .header__title {
+    font-weight: 700;
+    font-size: 17px;
+    letter-spacing: -0.3px;
+    color: rgb(54, 54, 68);
+}
+.css-1bf77tt-StyledEditButton {
+    box-sizing: border-box;
+    border: 1px solid rgb(231, 231, 237);
+    transition: background-color 0.1s linear 0s, border-color 0.1s linear 0s, color 0.1s linear 0s;
+    background-color: rgb(255, 255, 255);
+    line-height: 22px;
+    cursor: pointer;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    width: 50px;
+    height: 30px;
+    padding: 0px;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: -0.3px;
+    text-align: center;
+    color: rgb(54, 54, 68);
+}
+
+.css-11n944y-StayledControlBoard .content {
+    padding-top: 8px;
+    color: rgb(120, 120, 135);
+    font-size: 15px;
+    line-height: 26px;
+    font-weight: 500;
+}
+.css-11n944y-StayledControlBoard .detail {
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 400;
+    color: rgb(170, 170, 183);
+}
+.css-11n944y-StayledControlBoard {
+    flex: 1 1 0%;
+    background: rgb(255, 255, 255);
+    border-right: 1px solid rgb(231, 231, 237);
+    padding: 18px 16px 14px 28px;
+}
+.css-1c5ljps-StyledNotificationPanel {
+    display: flex;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    margin: 20px;
+    position: relative;
+    min-width: 1030px;
+}
+.css-1c5ljps-StyledNotificationPanel .notification-wrap {
+    display: flex;
+    width: 100%;
+    padding: 0px 56px 0px 0px;
+    background: rgb(255, 255, 255);
+}
+.css-1c5ljps-StyledNotificationPanel .icon-container {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 60px;
+    background: rgb(71, 105, 247);
+}
+.css-1c5ljps-StyledNotificationPanel .text {
+    flex: 1 1 0%;
+    padding: 16px 20px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-1uxyii9 {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 700;
+}
+.pds-text {
+    margin: 0px;
+}
+.css-4dp99n-Link {
+    color: rgb(71, 105, 247);
+}
+.css-1c5ljps-StyledNotificationPanel .close {
+    border: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: visible;
+    background: transparent;
+    color: inherit;
+    font-style: inherit;
+    font-variant: inherit;
+    font-weight: inherit;
+    font-stretch: inherit;
+    font-size: inherit;
+    font-family: inherit;
+    font-optical-sizing: inherit;
+    font-kerning: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    line-height: normal;
+    -webkit-font-smoothing: inherit;
+    appearance: none;
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+}
+.css-1n8ugql-StyledCard {
+    margin: 20px;
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(231, 231, 237);
+}
+.css-1n8ugql-StyledCard .card-title {
+    border-bottom: 1px solid rgb(231, 231, 237);
+    font-weight: 700;
+    font-size: 17px;
+    letter-spacing: -0.3px;
+    color: rgb(54, 54, 68);
+}
+.css-39rebh-Header {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    padding: 23px 28px;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-1l1k72x-Title {
+    font-size: 17px;
+    font-weight: 700;
+}
+.css-ps51pb-Date {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+}
+.css-1ip6yq1-CheckboxList {
+    display: flex;
+}
+.css-zxkdx3-CheckboxItem {
+    margin-right: 20px;
+}
+.css-upy428-StyledInput {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    position: relative;
+    min-width: 24px;
+    height: 24px;
+    cursor: pointer;
+    user-select: none;
+}
+.css-upy428-StyledInput input {
+    display: none;
+}
+.css-upy428-StyledInput input:checked ~ .checkmark {
+    background-color: rgb(71, 105, 247);
+    border: 1px solid rgb(64, 94, 222);
+}
+.css-upy428-StyledInput .checkmark {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    height: 18px;
+    width: 18px;
+    border: 1px solid rgb(224, 224, 228);
+    background-color: rgb(255, 255, 255);
+}
+.css-upy428-StyledInput .checkmark::after {
+    left: 5px;
+    top: 1px;
+    width: 6px;
+    height: 10px;
+    border-style: solid;
+    border-color: white;
+    border-image: initial;
+    border-width: 0px 2px 2px 0px;
+    transform: rotate(45deg);
+}
+.css-upy428-StyledInput .checkmark::after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+.css-upy428-StyledInput .checkbox_label {
+    margin-left: 28px;
+    color: rgb(54, 54, 68);
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+}
+.css-zxkdx3-CheckboxItem {
+    margin-right: 20px;
+}
+.css-1bh5x7l-StyledDateRangePicker {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-t91dmx {
+    display: flex;
+    flex-direction: row;
+    column-gap: 12px;
+}
+.css-15nc1g8-StyledDatePickerWrapper {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(231, 231, 237);
+    position: relative;
+}
+.css-15nc1g8-StyledDatePickerWrapper .e10vz3tv9 {
+    cursor: pointer;
+}
+.css-u4ffcb-StyledDatePickerTextWrapper {
+    box-sizing: border-box;
+    padding: 4px 11px;
+    width: 100%;
+    height: 32px;
+}
+.css-15nc1g8-StyledDatePickerWrapper .e10vz3tv8 {
+    color: rgb(54, 54, 68);
+}
+.css-1cy6d4d-StyledDatePickerValueText {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    padding-right: 22px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+.css-uxcb7y-StyledCalendarIcon {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+}
+
+/* .pastel-ui-button {
+  font: inherit;
+  margin: 0px;
+} */
+.css-9rg5bo-HistoryButton {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px solid rgb(231, 231, 237);
+    transition: background-color 0.1s linear 0s, border-color 0.1s linear 0s, color 0.1s linear 0s;
+    color: rgb(54, 54, 68);
+    background-color: rgb(255, 255, 255);
+    height: 34px;
+    padding: 0px 14px;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    cursor: pointer;
+    /* width: 99px; */
+    margin-left: 8px;
+}
+
+.css-hraztw-HistoryButtonLabel {
+    margin-left: 4px;
+}
+.css-ry10rd-HiddenDownloadButton {
+    display: none;
+}
+.css-1g1w512-ExcelDownloadButton {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px solid rgb(231, 231, 237);
+    transition: background-color 0.1s linear 0s, border-color 0.1s linear 0s, color 0.1s linear 0s;
+    color: rgb(54, 54, 68);
+    background-color: rgb(255, 255, 255);
+    height: 34px;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    cursor: pointer;
+    margin-left: 8px;
+    padding: 0px 14px;
+}
+
+.css-1g1w512-ExcelDownloadButton svg {
+    margin-right: 4px;
+}
+.css-1n8ugql-StyledCard .card-content {
+    display: flex;
+}
+.css-1r8ajqe-StyledAdManagement {
+    width: 100%;
+}
+.css-1eibske-Root {
+    width: 100%;
+}
+.css-1rlua0g-IndexBoard {
+    display: flex;
+    width: 100%;
+}
+.css-1mf3nc6-Stats {
+    position: relative;
+    width: 540px;
+    min-width: 540px;
+    padding: 20px 28px;
+}
+
+.css-vjga5q-IndexListTitle {
+    margin-top: 16px;
+    display: flex;
+    color: rgb(120, 120, 135);
+    font-size: 13px;
+    height: 22px;
+    line-height: 22px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+.css-1m3o2io-IndexList {
+    margin-top: 7px;
+    border-radius: 10px;
+    display: flex;
+    flex-flow: row wrap;
+    background: rgb(250, 250, 252);
+    padding: 10px 0px;
+}
+.css-1xyccx1-IndexItem {
+    padding: 8px 20px;
+    width: 33%;
+    flex-flow: row nowrap;
+    box-sizing: border-box;
+    align-content: space-between;
+}
+.css-1xyccx1-IndexItem .title {
+    position: relative;
+    font-size: 13px;
+    color: rgb(90, 90, 104);
+    width: 100%;
+    height: 22px;
+    line-height: 22px;
+}
+.css-1xyccx1-IndexItem .title .hover-icon {
+    /* opacity: 0; */
+    display: inline-block;
+    vertical-align: -12%;
+    margin-left: 3px;
+    cursor: pointer;
+    transition: opacity 0.15s ease 0s;
+}
+.css-124ql05-StyledHoverIcon {
+    position: relative;
+}
+.css-124ql05-StyledHoverIcon .hover-icon__icon {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-1xyccx1-IndexItem hr {
+    width: 100%;
+    height: 1px;
+    background-color: rgb(231, 231, 237);
+    margin: 4px 0px;
+    border: none;
+}
+.css-qcrl57-IndexValue {
+    color: rgb(54, 54, 68);
+    font-weight: 600;
+    font-size: 15px;
+    min-height: 24px;
+    line-height: 26px;
+}
+.css-vjga5q-IndexListTitle > div {
+    display: flex;
+}
+.css-vjga5q-IndexListTitle .hover-icon {
+    display: flex;
+    margin-left: 4px;
+    cursor: pointer;
+    align-items: center;
+}
+
+.css-gun55t-SelectBox {
+    display: inline-block !important;
+}
+.css-btrk4w-SelectButton {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px solid rgb(231, 231, 237);
+    transition: background-color 0.1s linear 0s, border-color 0.1s linear 0s, color 0.1s linear 0s;
+    color: rgb(54, 54, 68);
+    background-color: rgb(255, 255, 255);
+    padding: 0px 14px;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    cursor: pointer;
+    height: 22px;
+}
+
+.css-btrk4w-SelectButton svg {
+    margin-left: 8px;
+}
+.css-12r7o53-IndexListAlert {
+    font-size: 13px;
+    color: rgb(240, 80, 70);
+}
+.css-1m3o2io-IndexList {
+    margin-top: 7px;
+    border-radius: 10px;
+    display: flex;
+    flex-flow: row wrap;
+    background: rgb(250, 250, 252);
+    padding: 10px 0px;
+}
+.css-vrj41g-GraphWrapper {
+    width: calc(100% - 540px);
+    padding: 0px 30px 0px 0px;
+    height: auto;
+}
+.css-1sxi273-StyledGraph {
+    height: calc(100% - 52px);
+}
+.css-1sxi273-StyledGraph .data-picker {
+    display: flex;
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    margin: 12px 0px 0px;
+}
+.css-1kfita1-StyledDropdown-StyledSelect:first-of-type {
+    margin: 0px 20px 0px 0px;
+}
+.css-1kfita1-StyledDropdown-StyledSelect {
+    position: relative;
+    font-size: 13px;
+    letter-spacing: -0.3px;
+    color: rgb(54, 54, 68);
+    cursor: pointer;
+    border: none;
+}
+.css-1kfita1-StyledDropdown-StyledSelect .dropdown__selected {
+    padding: 10px 2px;
+}
+.css-jwt9iv-SelectedDropdown {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-1kfita1-StyledDropdown-StyledSelect .selected-value {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-1kfita1-StyledDropdown-StyledSelect .color-tag {
+    margin: 0px 6px 0px 0px;
+    height: 14px;
+    width: 14px;
+    background: rgb(71, 105, 247);
+}
+.css-1kfita1-StyledDropdown-StyledSelect .text {
+    color: rgb(90, 90, 104);
+}
+.css-1kfita1-StyledDropdown-StyledSelect .dropdown__selected > svg {
+    margin: 0px 0px 0px 4px;
+}
+.css-jwt9iv-SelectedDropdown > svg {
+    margin: 0px 7px 0px 4px;
+    pointer-events: none;
+}
+.css-102qv8u-StyledDropdown-StyledSelect {
+    position: relative;
+    font-size: 13px;
+    letter-spacing: -0.3px;
+    color: rgb(54, 54, 68);
+    cursor: pointer;
+    border: none;
+}
+.css-102qv8u-StyledDropdown-StyledSelect .dropdown__selected {
+    padding: 10px 2px;
+}
+.css-jwt9iv-SelectedDropdown {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-102qv8u-StyledDropdown-StyledSelect .selected-value {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-102qv8u-StyledDropdown-StyledSelect .color-tag {
+    margin: 0px 6px 0px 0px;
+    height: 14px;
+    width: 14px;
+    background: rgb(129, 209, 251);
+}
+.css-102qv8u-StyledDropdown-StyledSelect .text {
+    color: rgb(90, 90, 104);
+}
+.css-102qv8u-StyledDropdown-StyledSelect .dropdown__selected > svg {
+    margin: 0px 0px 0px 4px;
+}
+.css-jwt9iv-SelectedDropdown > svg {
+    margin: 0px 7px 0px 4px;
+    pointer-events: none;
+}
+.css-1sxi273-StyledGraph .canvas-wrapper {
+    position: relative;
+    height: calc(100% - 20px);
+}
+
+.css-vrj41g-GraphWrapper .canvas-wrapper {
+    background: rgb(250, 250, 252);
+    padding: 60px;
+    border-radius: 10px;
+}
+.css-1vd26qu-RefreshIndicatorContainer {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    padding: 0px 34px;
+}
+.css-c7o6ra-Root-IndexBoard {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    transform: translateY(-50%);
+}
+.css-rscta8-RefreshIcon {
+    margin-right: 4px;
+}
+.css-14cddgs-Text {
+    font-size: 11px;
+    line-height: 18px;
+    font-weight: 500;
+    color: rgb(170, 170, 183);
+}
+.css-14cddgs-Text .bold {
+    display: inline-block;
+    color: rgb(120, 120, 135);
+    font-weight: 500;
+    min-width: 13px;
+    text-align: right;
+}
+.css-1uwwn9i-StyledHeader {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    padding: 18px 30px;
+    border-top: 1px solid rgb(231, 231, 237);
+}
+.css-1uwwn9i-StyledHeader .text {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-1uwwn9i-StyledHeader .text__title {
+    font-weight: 700;
+    font-size: 17px;
+    letter-spacing: -0.3px;
+    color: rgb(54, 54, 68);
+}
+.css-1uwwn9i-StyledHeader .actions {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.css-n7ms9z-StyledDropdown {
+    position: relative;
+    border: 1px solid rgb(231, 231, 237);
+    font-size: 13px;
+    letter-spacing: -0.3px;
+    color: rgb(54, 54, 68);
+    cursor: pointer;
+}
+.css-jwt9iv-SelectedDropdown {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-2d6z2s-StyledSelectOption {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 0px 0px 0px 14px;
+    height: 32px;
+    width: 73px;
+    font-size: 13px;
+    letter-spacing: -0.3px;
+    color: rgb(54, 54, 68);
+}
+.css-jwt9iv-SelectedDropdown > svg {
+    margin: 0px 7px 0px 4px;
+    pointer-events: none;
+}
+.css-hmqlcs-AlertTextWrapper {
+    background: rgb(250, 250, 252);
+    padding: 14px 32px;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-1fbl28z-AlertIcon {
+    width: 18px;
+    height: 18px;
+    margin-right: 4px;
+}
+.css-1fbl28z-AlertIcon svg {
+    width: 16px;
+    height: 16px;
+}
+.css-1fbl28z-AlertIcon svg path {
+    fill: rgb(170, 170, 183);
+}
+.css-1ki3exd-AlertText {
+    font-size: 13px;
+    line-height: 22px;
+    color: rgb(120, 120, 135);
+}
+.css-1kzwcps-AlertButton {
+    background: none;
+    border: 0px;
+    font-size: 13px;
+    line-height: 22px;
+    color: rgb(71, 105, 247);
+    cursor: pointer;
+    outline: none;
+    height: 22px;
+    padding: 0px;
+    margin: 0px 0px 0px 4px;
+}
+.css-1ivlctx-StyledAdCampaign {
+    position: relative;
+    margin: 10px auto auto;
+    padding: 0px 30px;
+    width: 100%;
+}
+.css-1ivlctx-StyledAdCampaign .campaigns-header {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    height: 50px;
+    margin: 0px 0px -1px;
+    padding: 0px 12px;
+    background: rgb(250, 250, 252);
+    border-top: 1px solid rgb(231, 231, 237);
+    border-right: 1px solid rgb(231, 231, 237);
+    border-left: 1px solid rgb(231, 231, 237);
+    border-image: initial;
+    border-bottom: none;
+}
+.css-1ivlctx-StyledAdCampaign .campaigns-header__main-actions,
+.css-1ivlctx-StyledAdCampaign .campaigns-header__sub-actions {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: -0.3px;
+    text-align: center;
+    color: rgb(54, 54, 68);
+}
+.css-x32ifi-button_base_css-buildCSSWithMixedColor-buildCSSWithMixedColor-buildCSSWithMixedColor-getButtonStyle-buildCSSWithMixedColor-buildCSSWithMixedColor-buildCSSWithMixedColor-buildCSSWithMixedColor-buildCSSWithMixedColor-buildCSSWithMixedColor-buildCSSWithMixedColor-getButtonStyle-getDefaultButtonStyle-Button-Button-StyledButton {
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    transition: background-color 0.1s linear 0s, border-color 0.1s linear 0s, color 0.1s linear 0s;
+    color: rgb(54, 54, 68);
+    column-gap: 4px;
+    line-height: 22px;
+    cursor: pointer;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin: 0px 8px 0px 0px;
+    padding: 0px 14px;
+    height: 30px;
+    background: rgb(255, 255, 255);
+    font-size: 12px;
+    font-weight: 600;
+    border: 1px solid rgb(231, 231, 237);
+}
+.css-mbq0wi-StyledFilterButtonContainer {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin: 0px 0px 0px 2px;
+    padding: 0px 0px 0px 10px;
+    border-left: 1px solid rgb(231, 231, 237);
+}
+.css-x32ifi-button_base_css-buildCSSWithMixedColor-buildCSSWithMixedColor-buildCSSWithMixedColor-getButtonStyle-buildCSSWithMixedColor-buildCSSWithMixedColor-buildCSSWithMixedColor-buildCSSWithMixedColor-buildCSSWithMixedColor-buildCSSWithMixedColor-buildCSSWithMixedColor-getButtonStyle-getDefaultButtonStyle-Button-Button-StyledButton {
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    transition: background-color 0.1s linear 0s, border-color 0.1s linear 0s, color 0.1s linear 0s;
+    color: rgb(54, 54, 68);
+    column-gap: 4px;
+    line-height: 22px;
+    cursor: pointer;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin: 0px 8px 0px 0px;
+    padding: 0px 14px;
+    height: 30px;
+    background: rgb(255, 255, 255);
+    font-size: 12px;
+    font-weight: 600;
+    border: 1px solid rgb(231, 231, 237);
+}
+.css-1ivlctx-StyledAdCampaign .campaigns-header__main-actions,
+.css-1ivlctx-StyledAdCampaign .campaigns-header__sub-actions {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: -0.3px;
+    text-align: center;
+    color: rgb(54, 54, 68);
+}
+.css-d7s4v0-Presets {
+    position: relative;
+    margin-right: 9px;
+}
+.css-m5000f-ToggleButton {
+    width: 170px;
+    height: 30px;
+    line-height: 28px;
+    text-align: left;
+    box-sizing: border-box;
+    position: relative;
+    border: 1px solid rgb(231, 231, 237);
+    font-size: 13px;
+    color: rgb(54, 54, 68);
+    cursor: pointer;
+    padding: 0px 34px 0px 12px;
+    background: white;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.css-1ivlctx-StyledAdCampaign .campaigns-header__sub-actions svg {
+    margin: 0px 4px 0px 0px;
+}
+.css-m5000f-ToggleButton svg {
+    position: absolute;
+    right: 5px;
+    top: 6px;
+}
+.css-1ivlctx-StyledAdCampaign .campaigns-header__sub-actions #download-link {
+    display: none;
+}
+.css-1ivlctx-StyledAdCampaign .campaigns-header__sub-actions svg {
+    margin: 0px 4px 0px 0px;
+}
+.css-17gy1gg-StyledTableContainer {
+    box-sizing: border-box;
+    margin: 0px 0px 10px;
+    width: 100%;
+    height: 600px;
+    overflow: auto;
+    border-right: 1px solid rgb(231, 231, 237);
+    border-bottom: 1px solid rgb(231, 231, 237);
+    border-left: 1px solid rgb(231, 231, 237);
+    border-image: initial;
+    border-top: none;
+    z-index: 1;
+}
+.css-1ndyyi7-StyledTable {
+    position: relative;
+    min-width: 100%;
+    border-collapse: separate;
+    border-spacing: 0px;
+    border-left: 1px solid rgb(231, 231, 237);
+    width: 2515px;
+    table-layout: fixed;
+}
+.css-1e4o4fs-StyledTh {
+    width: 40px;
+    min-width: 40px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    left: auto;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+}
+.css-1e4o4fs-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-1e4o4fs-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-1e4o4fs-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-31dcav-StyledInput-StyledCheckbox {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    min-width: 24px;
+    height: 24px;
+    cursor: pointer;
+    user-select: none;
+    position: absolute;
+    top: 8px;
+    margin-left: -6px;
+}
+.css-31dcav-StyledInput-StyledCheckbox input {
+    display: none;
+}
+.css-31dcav-StyledInput-StyledCheckbox .checkmark {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    height: 18px;
+    width: 18px;
+    border: 1px solid rgb(224, 224, 228);
+    background-color: rgb(255, 255, 255);
+}
+.css-gk53s5-StyledTh {
+    width: 100px;
+    min-width: 100px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    left: auto;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+    cursor: pointer;
+}
+.css-gk53s5-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-gk53s5-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-gk53s5-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-gk53s5-StyledTh .header-col__hover-icon {
+    margin-left: 3px;
+}
+
+.css-gk53s5-StyledTh .header-col__sort {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-left: 12px;
+}
+.css-16u1kfd-StyledTh {
+    width: 102px;
+    min-width: 102px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    left: auto;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+}
+.css-16u1kfd-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-16u1kfd-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-16u1kfd-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-16u1kfd-StyledTh .header-col__hover-icon {
+    margin-left: 3px;
+}
+.css-1qymm3m-StyledTh {
+    width: 158px;
+    min-width: 158px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    left: auto;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+}
+.css-1qymm3m-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-1qymm3m-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-1qymm3m-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-1qymm3m-StyledTh .header-col__hover-icon {
+    margin-left: 3px;
+}
+
+.css-1i6c4cb-StyledTh {
+    width: auto;
+    min-width: auto;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    left: auto;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+}
+.css-1i6c4cb-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-1i6c4cb-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-1i6c4cb-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-1t5uvkr-StyledTh {
+    width: 110px;
+    min-width: 110px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    left: auto;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+    cursor: pointer;
+}
+.css-1t5uvkr-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-1t5uvkr-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-1t5uvkr-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-1t5uvkr-StyledTh .header-col__hover-icon {
+    margin-left: 3px;
+}
+
+.css-1t5uvkr-StyledTh .header-col__sort {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-left: 12px;
+}
+.css-bgwpui-StyledTh {
+    width: 115px;
+    min-width: 115px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    left: auto;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+    cursor: pointer;
+}
+.css-bgwpui-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-bgwpui-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-bgwpui-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-bgwpui-StyledTh .header-col__hover-icon {
+    margin-left: 3px;
+}
+
+.css-bgwpui-StyledTh .header-col__sort {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-left: 12px;
+}
+.css-1d8b8dg-StyledTh {
+    width: 165px;
+    min-width: 165px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    left: auto;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+    cursor: pointer;
+}
+.css-1d8b8dg-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-1d8b8dg-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-1d8b8dg-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-1d8b8dg-StyledTh .header-col__hover-icon {
+    margin-left: 3px;
+}
+
+.css-1d8b8dg-StyledTh .header-col__sort {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-left: 12px;
+}
+.css-jpt32z-StyledTh {
+    width: 200px;
+    min-width: 200px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    left: auto;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+    cursor: pointer;
+}
+.css-jpt32z-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-jpt32z-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-jpt32z-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-jpt32z-StyledTh .header-col__hover-icon {
+    margin-left: 3px;
+}
+
+.css-jpt32z-StyledTh .header-col__sort {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-left: 12px;
+}
+.css-979uni-StyledTh {
+    width: 175px;
+    min-width: 175px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    left: auto;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+    cursor: pointer;
+}
+.css-979uni-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-979uni-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-979uni-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-979uni-StyledTh .header-col__hover-icon {
+    margin-left: 3px;
+}
+
+.css-979uni-StyledTh .header-col__sort {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-left: 12px;
+}
+.css-15azl4-StyledTh {
+    width: 150px;
+    min-width: 150px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    left: auto;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+    cursor: pointer;
+}
+.css-15azl4-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-15azl4-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-15azl4-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-15azl4-StyledTh .header-col__hover-icon {
+    margin-left: 3px;
+}
+
+.css-15azl4-StyledTh .header-col__sort {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-left: 12px;
+}
+.css-17gy1gg-StyledTableContainer .total-row td {
+    height: 40px;
+}
+.css-1ndyyi7-StyledTable td {
+    position: relative;
+    padding: 0px;
+    height: 74px;
+    vertical-align: top;
+    border-width: 0px 1px 1px 0px;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    border-top-style: initial;
+    border-top-color: initial;
+}
+.css-17gy1gg-StyledTableContainer .total-row .campaign {
+    min-width: 200px;
+}
+.css-17gy1gg-StyledTableContainer .total-row .text-cell {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.css-17gy1gg-StyledTableContainer .total-row .text-cell,
+.css-17gy1gg-StyledTableContainer .total-row .number-cell {
+    font-weight: 600;
+    font-size: 13px;
+    letter-spacing: -0.4px;
+    color: rgb(54, 54, 68);
+}
+.css-1ndyyi7-StyledTable .text-cell {
+    text-align: left;
+}
+.css-1ndyyi7-StyledTable .number-cell,
+.css-1ndyyi7-StyledTable .text-cell {
+    height: 100%;
+    padding: 13px 14px;
+    line-height: 14px;
+    font-size: 13px;
+    letter-spacing: -0.36px;
+}
+.css-tsu1nt-StyledTableRow td {
+    position: relative;
+    height: 64px;
+}
+.css-1ndyyi7-StyledTable td {
+    position: relative;
+    padding: 0px;
+    height: 74px;
+    vertical-align: top;
+    border-width: 0px 1px 1px 0px;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    border-top-style: initial;
+    border-top-color: initial;
+}
+.css-tsu1nt-StyledTableRow td .cell {
+    display: flex;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 14px 0px 0px;
+}
+.css-1ndyyi7-StyledTable .cell {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    height: 100%;
+}
+.css-upy428-StyledInput {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    position: relative;
+    min-width: 24px;
+    height: 24px;
+    cursor: pointer;
+    user-select: none;
+}
+.css-upy428-StyledInput input {
+    display: none;
+}
+.css-upy428-StyledInput .checkmark {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    height: 18px;
+    width: 18px;
+    border: 1px solid rgb(224, 224, 228);
+    background-color: rgb(255, 255, 255);
+}
+.css-tsu1nt-StyledTableRow td {
+    position: relative;
+    height: 64px;
+}
+.css-1ndyyi7-StyledTable td {
+    position: relative;
+    padding: 0px;
+    height: 74px;
+    vertical-align: top;
+    border-width: 0px 1px 1px 0px;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    border-top-style: initial;
+    border-top-color: initial;
+}
+.css-tsu1nt-StyledTableRow .status .cell {
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    padding: 14px 0px 14px 14px;
+    display: inline-block;
+}
+.css-ag7urw-StyledStatus {
+    display: flex;
+    flex-direction: column;
+    font-size: 13px;
+}
+.css-ag7urw-StyledStatus .status {
+    display: flex;
+    align-items: flex-start;
+    text-decoration: none;
+    cursor: auto;
+}
+.css-ag7urw-StyledStatus .status .dot {
+    height: 10px;
+    width: 10px;
+    border-radius: 5px;
+    background-color: rgb(90, 194, 124);
+    margin-top: 4px;
+}
+.css-ag7urw-StyledStatus .status .text {
+    margin: 0px 0px 0px 6px;
+    line-height: 1.4em;
+    letter-spacing: -0.3px;
+    color: rgb(54, 54, 68);
+    white-space: pre-line;
+}
+.css-tsu1nt-StyledTableRow td {
+    position: relative;
+    height: 64px;
+}
+.css-tsu1nt-StyledTableRow td .cell {
+    display: flex;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 14px 0px 0px;
+}
+.css-n7ms9z-StyledDropdown {
+    position: relative;
+    border: 1px solid rgb(231, 231, 237);
+    font-size: 13px;
+    letter-spacing: -0.3px;
+    color: rgb(54, 54, 68);
+    cursor: pointer;
+}
+.css-tsu1nt-StyledTableRow .change-status .dropdown__selected {
+    line-height: 14px;
+    font-size: 13px;
+}
+.css-jwt9iv-SelectedDropdown {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-w8gtf9-StyledSelectOption {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 0px 0px 0px 14px;
+    width: 42px;
+    height: 34px;
+    font-size: 13px;
+    letter-spacing: -0.3px;
+    color: rgb(54, 54, 68);
+}
+.css-jwt9iv-SelectedDropdown > svg {
+    margin: 0px 7px 0px 4px;
+    pointer-events: none;
+}
+.css-tsu1nt-StyledTableRow td .cell {
+    display: flex;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 14px 0px 0px;
+}
+.css-n7ms9z-StyledDropdown {
+    position: relative;
+    border: 1px solid rgb(231, 231, 237);
+    font-size: 13px;
+    letter-spacing: -0.3px;
+    color: rgb(54, 54, 68);
+    cursor: pointer;
+}
+.css-rba1y9-SelectedDropdown-exposeMethodContentStyle-exposeMethodSelectedStyle {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-rba1y9-SelectedDropdown-exposeMethodContentStyle-exposeMethodSelectedStyle .option:last-of-type {
+    border-bottom: none;
+}
+.css-rqfhx5-StyledAiOption-exposeMethodContentStyle {
+    position: relative;
+    display: flex;
+    height: 34px;
+    background: rgb(255, 255, 255);
+    border-bottom: 1px solid rgb(231, 231, 237);
+    cursor: pointer;
+}
+.css-rqfhx5-StyledAiOption-exposeMethodContentStyle .image {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 32px;
+    height: 100%;
+    background: rgb(250, 250, 252);
+    border-right: 1px solid rgb(231, 231, 237);
+}
+.css-rqfhx5-StyledAiOption-exposeMethodContentStyle .image svg {
+    display: block;
+}
+.css-rba1y9-SelectedDropdown-exposeMethodContentStyle-exposeMethodSelectedStyle > svg {
+    display: block;
+    margin: 0px 7px 0px 5px;
+}
+.css-rba1y9-SelectedDropdown-exposeMethodContentStyle-exposeMethodSelectedStyle > svg {
+    margin: 0px 7px 0px 4px;
+    pointer-events: none;
+}
+.dropdown__selected .css-rqfhx5-StyledAiOption-exposeMethodContentStyle .text {
+    width: 72px;
+}
+.css-rqfhx5-StyledAiOption-exposeMethodContentStyle .text {
+    color: rgb(255, 52, 156);
+}
+.css-rqfhx5-StyledAiOption-exposeMethodContentStyle .text {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 0px 0px 0px 8px;
+    width: 100px;
+    font-size: 13px;
+    letter-spacing: -0.3px;
+}
+.css-m3t5ss-StyledActiveCreativeListCard {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    min-width: 200px;
+}
+.css-m3t5ss-StyledActiveCreativeListCard .content {
+    display: flex;
+    height: 74px;
+    padding: 10px 0px 10px 14px;
+    width: 100%;
+}
+.css-1lzegmu-StyledImageContainer {
+    position: relative;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 44px;
+    min-width: 44px;
+    height: 55px;
+    min-height: 55px;
+    overflow: hidden;
+}
+.css-1lzegmu-StyledImageContainer img {
+    height: 100%;
+}
+.css-1iawr4b-StyledPreviewButton {
+    position: absolute;
+    cursor: pointer;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    outline: none;
+    border: 0px;
+    font-size: 0px;
+    padding: 0px;
+    margin: 0px;
+    background: none;
+}
+.css-m3t5ss-StyledActiveCreativeListCard .content .text {
+    padding: 5px 0px 5px 10px;
+    max-width: 300px;
+}
+.css-m3t5ss-StyledActiveCreativeListCard .content .title {
+    line-height: 15px;
+    font-size: 13px;
+    letter-spacing: -0.3px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.css-m3t5ss-StyledActiveCreativeListCard .content .title a,
+.css-m3t5ss-StyledActiveCreativeListCard .content .title a:active,
+.css-m3t5ss-StyledActiveCreativeListCard .content .title a:visited,
+.css-m3t5ss-StyledActiveCreativeListCard .content .title a:link {
+    color: rgb(71, 105, 247);
+}
+.css-m3t5ss-StyledActiveCreativeListCard .content .price {
+    margin: 7px 0px 0px;
+    line-height: 13px;
+    font-size: 12px;
+    letter-spacing: -0.2px;
+    color: rgb(120, 120, 135);
+}
+.css-m3t5ss-StyledActiveCreativeListCard .action {
+    display: none;
+}
+.css-1a73lwa-StyledButton {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px solid rgb(231, 231, 237);
+    transition: background-color 0.1s linear 0s, border-color 0.1s linear 0s, color 0.1s linear 0s;
+    color: rgb(54, 54, 68);
+    padding: 0px 14px;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    cursor: pointer;
+    margin: 0px 14px 0px 0px;
+    height: 30px;
+    background: white;
+}
+
+.css-tsu1nt-StyledTableRow .number-cell {
+    padding: 13px 14px;
+    text-align: right;
+    line-height: 14px;
+    font-size: 13px;
+    letter-spacing: -0.36px;
+}
+.css-1ndyyi7-StyledTable .number-cell {
+    text-align: right;
+}
+.css-1hfidzo-IndexList {
+    padding: 5px 0px;
+    display: flex;
+}
+.css-eifc0z-Label {
+    font-size: 13px;
+    color: rgb(54, 54, 68);
+    height: 13px;
+    line-height: 13px;
+    min-width: 0px;
+    white-space: nowrap;
+}
+.css-mspdys-BarWrapper {
+    margin-left: 8px;
+    width: 65px;
+    height: 13px;
+    line-height: 13px;
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+.css-1obsrk5-Fill {
+    display: block;
+    width: 10px;
+    height: 12px;
+    background: rgb(90, 194, 124);
+}
+.css-5uj60n-Empty {
+    display: block;
+    width: 10px;
+    height: 12px;
+    background: rgb(231, 231, 237);
+}
+.css-tsu1nt-StyledTableRow td .cell {
+    display: flex;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 14px 0px 0px;
+}
+.css-n7ms9z-StyledDropdown {
+    position: relative;
+    border: 1px solid rgb(231, 231, 237);
+    font-size: 13px;
+    letter-spacing: -0.3px;
+    color: rgb(54, 54, 68);
+    cursor: pointer;
+}
+.css-rba1y9-SelectedDropdown-exposeMethodContentStyle-exposeMethodSelectedStyle {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-rba1y9-SelectedDropdown-exposeMethodContentStyle-exposeMethodSelectedStyle .option:last-of-type {
+    border-bottom: none;
+}
+.css-1nl0o7g-StyledAiOption-exposeMethodContentStyle {
+    position: relative;
+    display: flex;
+    height: 34px;
+    background: rgb(255, 255, 255);
+    border-bottom: 1px solid rgb(231, 231, 237);
+    cursor: pointer;
+}
+.css-1nl0o7g-StyledAiOption-exposeMethodContentStyle .image {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 32px;
+    height: 100%;
+    background: rgb(250, 250, 252);
+    border-right: 1px solid rgb(231, 231, 237);
+}
+.css-lwr0em {
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 600;
+    color: rgb(120, 120, 135);
+}
+.dropdown__selected .css-1nl0o7g-StyledAiOption-exposeMethodContentStyle .text {
+    width: 72px;
+}
+.css-1nl0o7g-StyledAiOption-exposeMethodContentStyle .text {
+    color: rgb(54, 54, 68);
+}
+.css-1nl0o7g-StyledAiOption-exposeMethodContentStyle .text {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 0px 0px 0px 8px;
+    width: 100px;
+    font-size: 13px;
+    letter-spacing: -0.3px;
+}
+.css-rba1y9-SelectedDropdown-exposeMethodContentStyle-exposeMethodSelectedStyle > svg {
+    display: block;
+    margin: 0px 7px 0px 5px;
+}
+.css-rba1y9-SelectedDropdown-exposeMethodContentStyle-exposeMethodSelectedStyle > svg {
+    margin: 0px 7px 0px 4px;
+    pointer-events: none;
+}
+.css-1hfidzo-IndexList {
+    padding: 5px 0px;
+    display: flex;
+}
+.css-eifc0z-Label {
+    font-size: 13px;
+    color: rgb(54, 54, 68);
+    height: 13px;
+    line-height: 13px;
+    min-width: 0px;
+    white-space: nowrap;
+}
+.css-mspdys-BarWrapper {
+    margin-left: 8px;
+    width: 65px;
+    height: 13px;
+    line-height: 13px;
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+.css-qvcwes-Fill {
+    display: block;
+    width: 10px;
+    height: 12px;
+    background: rgb(242, 171, 109);
+}
+.css-5uj60n-Empty {
+    display: block;
+    width: 10px;
+    height: 12px;
+    background: rgb(231, 231, 237);
+}
+.css-1eubt6a-PaginationContainer {
+    position: relative;
+    margin: 16px 0px;
+    min-height: 26px;
+}
+.css-1mq5voe-StyledSegmentButtonGroup-StyleSegmentButtons {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    margin: 10px 0px;
+}
+
+.css-1mq5voe-StyledSegmentButtonGroup-StyleSegmentButtons .segment-button {
+    margin: 0px 4px 0px 0px;
+    border: none;
+    width: 26px;
+    min-width: 26px;
+    height: 26px;
+    color: rgb(120, 120, 135);
+}
+.css-1mq5voe-StyledSegmentButtonGroup-StyleSegmentButtons .segment-button--selected {
+    border: 1px solid rgb(71, 105, 247);
+    color: rgb(120, 120, 135);
+}
+.segment-button.active {
+    border: 1px solid rgb(71, 105, 247);
+    color: rgb(71, 105, 247);
+}
+.segment-button--selected.active {
+    color: rgb(120, 120, 135);
+}
+
+.css-183edjy-SegmentButton-StyledSegmentButton {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    height: 34px;
+    padding: 0px 12px;
+    background-color: rgb(255, 255, 255);
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(71, 105, 247);
+    border: 1px solid rgb(71, 105, 247);
+    cursor: pointer;
+    margin: 0px -1px 0px 0px;
+    min-width: 55px;
+    width: auto;
+    z-index: 1;
+}
+.css-3dp8sw-Root-CampaignsTable {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    position: absolute;
+    top: 0px;
+    right: 4px;
+}
+.css-rscta8-RefreshIcon {
+    margin-right: 4px;
+}
+.css-14cddgs-Text {
+    font-size: 11px;
+    line-height: 18px;
+    font-weight: 500;
+    color: rgb(170, 170, 183);
+}
+.css-14cddgs-Text .bold {
+    display: inline-block;
+    color: rgb(120, 120, 135);
+    font-weight: 500;
+    min-width: 13px;
+    text-align: right;
+}
+.css-k7na85-SegmentButton-StyledSegmentButton {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    height: 34px;
+    padding: 0px 12px;
+    background-color: rgb(255, 255, 255);
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(54, 54, 68);
+    border: 1px solid rgb(231, 231, 237);
+    cursor: pointer;
+    margin: 0px -1px 0px 0px;
+    min-width: 55px;
+    width: auto;
+    z-index: 0;
+}
+.css-12b2q10-SegmentButton-StyledSegmentButton {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    height: 34px;
+    padding: 0px 12px;
+    background-color: rgb(255, 255, 255);
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(54, 54, 68);
+    border: 1px solid rgb(231, 231, 237);
+    opacity: 0.5;
+    cursor: not-allowed;
+    margin: 0px -1px 0px 0px;
+    min-width: 55px;
+    width: auto;
+    z-index: 0;
+}
+/*
+모달창 css
+*/
+.css-ln35g5-StyledModal {
+    top: 0px;
+    left: 0px;
+    z-index: 101;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    position: absolute;
+    display: flex;
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.4);
+}
+.css-ln35g5-StyledModal.modal-enter-done .modal-content-wrap {
+    transform: none;
+}
+.css-ln35g5-StyledModal .modal-content-wrap {
+    flex: 0 0 auto;
+    width: 100%;
+    max-height: 100%;
+    overflow: auto;
+    padding: 10px;
+    transition: transform 0.5s ease 0s;
+}
+.css-ln35g5-StyledModal .modal-content {
+    position: relative;
+    width: 700px;
+    background-color: rgb(255, 255, 255);
+    margin: 0px auto;
+}
+.css-ln35g5-StyledModal .modal-content__header {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 0px 15px 0px 25px;
+    border-bottom: 1px solid rgb(231, 231, 237);
+    height: 50px;
+}
+.css-8disbo {
+    font-size: 17px;
+    line-height: 24px;
+    font-weight: 700;
+}
+.pastel-ui-text {
+    margin: 0px;
+}
+.css-ln35g5-StyledModal .modal-content__icon {
+    background: none;
+    box-shadow: none;
+    border: 0px;
+    padding: 0px 0px 0px 12px;
+    margin-left: auto;
+    flex: 0 0 auto;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+}
+.css-1oabjwb-StyledAdPreference .description {
+    padding: 15px 25px;
+    background: rgb(250, 250, 252);
+    color: rgb(120, 120, 135);
+    font-size: 13px;
+    line-height: 1.69;
+    letter-spacing: -0.3px;
+    margin-bottom: 18px;
+}
+.css-1oabjwb-StyledAdPreference .inputs {
+    max-height: 700px;
+    overflow: auto;
+}
+.css-1oabjwb-StyledAdPreference .input {
+    display: flex;
+}
+.css-1oabjwb-StyledAdPreference .input__label {
+    width: 120px;
+    color: rgb(120, 120, 135);
+    font-weight: 600;
+    font-size: 13px;
+    letter-spacing: -0.36px;
+    padding: 18px 0px 0px 28px;
+    line-height: 22px;
+}
+.css-1oabjwb-StyledAdPreference .input__content {
+    flex: 1 1 0%;
+    padding: 17px 0px 0px 15px;
+}
+.css-112ucrs-Container .card {
+    margin: 0px 28px 6px 0px;
+}
+.css-1n8ugql-StyledCard .card-title {
+    border-bottom: 1px solid rgb(231, 231, 237);
+    font-weight: 700;
+    font-size: 17px;
+    letter-spacing: -0.3px;
+    color: rgb(54, 54, 68);
+}
+.css-ftmaos-Aset {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+}
+.css-184bcd1-ToggleArea {
+    display: flex;
+    position: relative;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    min-width: 90px;
+    height: 100%;
+    border-right: 1px solid rgb(231, 231, 237);
+}
+
+.css-jr83p7[disabled] {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+.css-jr83p7 {
+    position: relative;
+    display: inline-flex;
+    vertical-align: top;
+    -webkit-box-align: center;
+    align-items: center;
+    font-size: 11px;
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+    transition: background-color 0.2s ease 0s;
+    border: none;
+    opacity: 1;
+    cursor: pointer;
+    height: 32px;
+    padding: 2px 34px 2px 5px;
+    font-weight: 700;
+    background: rgb(71, 105, 247);
+    text-align: left;
+}
+.css-jr83p7::after {
+    width: 28px;
+    height: 28px;
+    top: 2px;
+    right: 2px;
+}
+.css-jr83p7::after {
+    position: absolute;
+    content: "";
+    background: rgb(255, 255, 255);
+    display: block;
+    border-radius: 50%;
+}
+.css-jr83p7.active {
+    position: relative;
+    display: inline-flex;
+    vertical-align: top;
+    -webkit-box-align: center;
+    align-items: center;
+    font-size: 11px;
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+    transition: background-color 0.2s ease 0s;
+    border: none;
+    opacity: 1;
+    cursor: pointer;
+    height: 32px;
+    padding: 2px 5px 2px 34px;
+    font-weight: 700;
+    background: rgb(193, 193, 203);
+    text-align: right;
+}
+.css-jr83p7.active::after {
+    width: 28px;
+    height: 28px;
+    top: 2px;
+    left: 2px;
+}
+.css-jr83p7.active::after {
+    position: absolute;
+    content: "";
+    background: rgb(255, 255, 255);
+    display: block;
+    border-radius: 50%;
+}
+.css-1y1wkqj-Content {
+    width: 100%;
+    padding: 15px 16px;
+}
+.css-1y1wkqj-Content .title {
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 700;
+    color: rgb(54, 54, 68);
+    margin-bottom: 2px;
+}
+.css-1y1wkqj-Content .text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(90, 90, 104);
+}
+.css-8lmhf9-FoldArea {
+    min-width: 80px;
+    height: 100%;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    border-left: 1px solid rgb(231, 231, 237);
+    cursor: pointer;
+}
+.css-8lmhf9-FoldArea .fold {
+    display: flex;
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 400;
+    color: rgb(120, 120, 135);
+}
+.css-1n8ugql-StyledCard .card-content {
+    display: flex;
+}
+.css-hk5326-StyledDailyBudgetLabel {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.css-hk5326-StyledDailyBudgetLabel .hover-icon__icon {
+    margin: 0px 0px 0px 4px;
+}
+
+.css-1g0mb4h-StyledInput-StyledNumberInput-StyledNumberInput {
+    position: relative;
+    background: transparent;
+    display: flex;
+    width: 150px;
+    height: 40px;
+}
+.css-1g0mb4h-StyledInput-StyledNumberInput-StyledNumberInput input {
+    appearance: none;
+}
+.css-1g0mb4h-StyledInput-StyledNumberInput-StyledNumberInput input {
+    width: 100%;
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    padding: 7px 14px;
+    font-size: 13px;
+    letter-spacing: -0.3px;
+    text-align: right;
+    color: rgb(54, 54, 68);
+    appearance: none;
+    margin: 0px;
+}
+.css-1g0mb4h-StyledInput-StyledNumberInput-StyledNumberInput input,
+.css-1g0mb4h-StyledInput-StyledNumberInput-StyledNumberInput .unit {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    border: 1px solid rgb(231, 231, 237);
+    color: rgb(54, 54, 68);
+}
+.css-1g0mb4h-StyledInput-StyledNumberInput-StyledNumberInput .unit {
+    -webkit-box-pack: center;
+    justify-content: center;
+    margin: 0px 0px 0px -1px;
+    padding: 0px 12px;
+}
+.css-1g0mb4h-StyledInput-StyledNumberInput-StyledNumberInput input,
+.css-1g0mb4h-StyledInput-StyledNumberInput-StyledNumberInput .unit {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    border: 1px solid rgb(231, 231, 237);
+    color: rgb(54, 54, 68);
+}
+.css-1oabjwb-StyledAdPreference .input .budget-description,
+.css-1oabjwb-StyledAdPreference .input .budget-recommendation {
+    font-size: 11px;
+    letter-spacing: -0.3px;
+    color: rgb(120, 120, 135);
+    margin-top: 5px;
+}
+.css-1oabjwb-StyledAdPreference .input .budget-description {
+    margin: 8px 0px 0px;
+}
+.css-11f3rec-StyledRadioGroup {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: end;
+    align-items: end;
+    height: 24px;
+}
+.css-1qfxozw {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+}
+.css-18oa2kp {
+    border: 0px;
+    clip: rect(0px, 0px, 0px, 0px);
+    height: 1px;
+    width: 1px;
+    margin: -1px;
+    padding: 0px;
+    overflow: hidden;
+    white-space: nowrap;
+    position: absolute;
+}
+.css-h01r61 {
+    display: block;
+    position: relative;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+}
+.css-18oa2kp:checked + span::before {
+    background-color: rgb(255, 255, 255);
+}
+.css-h01r61::before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    content: "";
+    width: 18px;
+    height: 18px;
+    border: 1px solid rgb(224, 224, 228);
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+}
+.css-18oa2kp:checked + span::after {
+    opacity: 1;
+}
+.css-h01r61::after {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    content: "";
+    opacity: 0;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgb(71, 105, 247);
+}
+.css-1qfstrp {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(54, 54, 68);
+    margin-left: 4px;
+}
+label + .css-1qfxozw {
+    margin-left: 20px;
+}
+.css-1qfxozw {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+}
+.css-18oa2kp {
+    border: 0px;
+    clip: rect(0px, 0px, 0px, 0px);
+    height: 1px;
+    width: 1px;
+    margin: -1px;
+    padding: 0px;
+    overflow: hidden;
+    white-space: nowrap;
+    position: absolute;
+}
+.css-h01r61 {
+    display: block;
+    position: relative;
+    width: 24px;
+    height: 24px;
+    box-sizing: border-box;
+}
+.css-1oabjwb-StyledAdPreference .actions {
+    display: flex;
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    margin: 30px 0px 0px;
+    padding: 13px 25px;
+    border-top: 1px solid rgb(231, 231, 237);
+}
+.css-1idrwkg-StyledButton {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px solid transparent;
+    transition: background-color 0.1s linear 0s, border-color 0.1s linear 0s, color 0.1s linear 0s;
+    color: rgb(255, 255, 255);
+    background-color: rgb(71, 105, 247);
+    height: 34px;
+    padding: 0px 14px;
+    line-height: 22px;
+    cursor: pointer;
+    margin: 0px 0px 0px 6px;
+    width: 80px;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: -0.3px;
+}
+
+.css-1an1o0o-StyledButton {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px solid rgb(231, 231, 237);
+    transition: background-color 0.1s linear 0s, border-color 0.1s linear 0s, color 0.1s linear 0s;
+    color: rgb(54, 54, 68);
+    background-color: rgb(255, 255, 255);
+    height: 34px;
+    padding: 0px 14px;
+    line-height: 22px;
+    cursor: pointer;
+    margin: 0px 0px 0px 6px;
+    width: 80px;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: -0.3px;
+}
+.css-16fremm-StyledTooltip {
+    border: 1px solid rgb(54, 54, 68);
+    background: rgb(255, 255, 255);
+    z-index: 1;
+}
+.css-1y9pn3m-StyledHelpText {
+    padding: 20px;
+    width: 280px;
+}
+.css-1y9pn3m-StyledHelpText .title {
+    margin: 0px 0px 15px;
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: -0.47px;
+    color: rgb(54, 54, 68);
+}
+.css-1y9pn3m-StyledHelpText .text {
+    margin: 0px 0px 10px;
+    font-size: 13px;
+    line-height: 1.54;
+    letter-spacing: -0.11px;
+    color: rgb(54, 54, 68);
+    white-space: pre-wrap;
+}
+.css-16fremm-StyledTooltip[data-popper-placement^="top"] > #arrow {
+    bottom: -6px;
+}
+.css-16fremm-StyledTooltip #arrow {
+    visibility: hidden;
+}
+.css-16fremm-StyledTooltip #arrow,
+.css-16fremm-StyledTooltip #arrow::before {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    background: inherit;
+}
+.css-16fremm-StyledTooltip #arrow::before {
+    visibility: visible;
+    content: "";
+    transform: rotate(45deg);
+    border-right: 1px solid rgb(54, 54, 68);
+    border-bottom: 1px solid rgb(54, 54, 68);
+    background: rgb(255, 255, 255);
+}
+.css-16fremm-StyledTooltip #arrow,
+.css-16fremm-StyledTooltip #arrow::before {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    background: inherit;
+}
+.css-gmhkiy-Inner {
+    width: 100%;
+    padding: 19px 20px 32px;
+    background-color: rgb(250, 250, 252);
+}
+.css-1kndvw1-InfoItem > img {
+    width: 100%;
+    height: 254px;
+    margin-bottom: 20px;
+}
+.css-1kndvw1-InfoItem > p {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    white-space: break-spaces;
+}
+.css-1c2z9cb-Category {
+    display: flex;
+    position: relative;
+    padding-bottom: 19px;
+}
+.css-1cgtccd-CategoryItem {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(54, 54, 68);
+    cursor: pointer;
+    position: relative;
+}
+.category-item.active {
+    color: rgb(54, 54, 68);
+}
+.css-1cgtccd-CategoryItem .bar {
+    width: 1px;
+    height: 16px;
+    border: 1px solid rgb(213, 213, 220);
+    color: rgb(213, 213, 220);
+    margin: 0px 8px;
+}
+.css-1h98fqm-CategoryItem {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(120, 120, 135);
+    cursor: pointer;
+    position: relative;
+}
+.css-1h98fqm-CategoryItem {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(120, 120, 135);
+    cursor: pointer;
+    position: relative;
+}
+.css-1h98fqm-CategoryItem .bar {
+    width: 1px;
+    height: 16px;
+    border: 1px solid rgb(213, 213, 220);
+    color: rgb(213, 213, 220);
+    margin: 0px 8px;
+}
+.css-1wj8k0g-StyledDailyBudgetInput {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 20px 0px 0px;
+}
+.css-15nc1g8-StyledDatePickerWrapper {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(231, 231, 237);
+    position: relative;
+}
+.css-15nc1g8-StyledDatePickerWrapper .e10vz3tv9 {
+    cursor: pointer;
+}
+.css-u4ffcb-StyledDatePickerTextWrapper {
+    box-sizing: border-box;
+    padding: 4px 11px;
+    width: 100%;
+    height: 32px;
+}
+.css-15nc1g8-StyledDatePickerWrapper .e10vz3tv8 {
+    color: rgb(54, 54, 68);
+}
+.css-1cy6d4d-StyledDatePickerValueText {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    padding-right: 22px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+.css-uxcb7y-StyledCalendarIcon {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+}
+.css-1wj8k0g-StyledDailyBudgetInput > .date-range-mark {
+    margin: 0px 8px;
+    font-size: 20px;
+    letter-spacing: -0.51px;
+    color: rgb(54, 54, 68);
+}
+.css-15nc1g8-StyledDatePickerWrapper {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(231, 231, 237);
+    position: relative;
+}
+.css-16fremm-StyledTooltip {
+    border: 1px solid rgb(54, 54, 68);
+    background: rgb(255, 255, 255);
+    z-index: 1;
+}
+.css-kpw5c2-StyledHelpText-StyledHelpText {
+    padding: 20px;
+    width: 280px;
+    height: 270px;
+    overflow-y: scroll;
+}
+.css-kpw5c2-StyledHelpText-StyledHelpText .title {
+    margin: 0px 0px 15px;
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: -0.47px;
+    color: rgb(54, 54, 68);
+}
+.css-kpw5c2-StyledHelpText-StyledHelpText .content:last-of-type {
+    margin: 0px;
+}
+.css-kpw5c2-StyledHelpText-StyledHelpText .text {
+    margin: 0px 0px 10px;
+    font-size: 13px;
+    line-height: 1.54;
+    letter-spacing: -0.11px;
+    color: rgb(54, 54, 68);
+    white-space: pre-wrap;
+}
+.css-kpw5c2-StyledHelpText-StyledHelpText .help-text-row {
+    display: flex;
+    margin: 0px 0px 10px;
+    font-size: 13px;
+    line-height: 1.54;
+    color: rgb(54, 54, 68);
+}
+.css-kpw5c2-StyledHelpText-StyledHelpText .help-text-dot,
+.css-kpw5c2-StyledHelpText-StyledHelpText .help-text {
+    font-size: 13px;
+    line-height: 1.54;
+    color: rgb(54, 54, 68);
+}
+.css-16fremm-StyledTooltip[data-popper-placement^="top"] > #arrow {
+    bottom: -6px;
+}
+.css-16fremm-StyledTooltip #arrow {
+    visibility: hidden;
+}
+.css-16fremm-StyledTooltip #arrow,
+.css-16fremm-StyledTooltip #arrow::before {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    background: inherit;
+}

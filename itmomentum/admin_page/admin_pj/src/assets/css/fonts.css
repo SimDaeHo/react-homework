@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'pretendard';
+    font-weight: 800;
+    src: url('../fonts/Pretendard-Bold.ttf') format('truetype'), url('../fonts/Pretendard-Bold.woff') format('woff');
+  }
+  @font-face {
+    font-family: 'pretendard';
+    font-weight: 400;
+    src: url('../fonts/Pretendard-Light.ttf') format('truetype'), url('../fonts/Pretendard-Light.woff') format('woff');
+  }
+  @font-face {
+    font-family: 'pretendard';
+    font-weight: 600;
+    src: url('../fonts/Pretendard-SemiBold.ttf') format('truetype'), url('../fonts/Pretendard-SemiBold.woff') format('woff');
+  }

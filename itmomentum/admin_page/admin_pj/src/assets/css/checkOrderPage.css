@@ -1,0 +1,1231 @@
+.css-rvlrt-StyledPageHeader {
+    background-color: rgb(255, 255, 255);
+    border-bottom: 1px solid rgb(234, 234, 252);
+}
+.css-28uhrc-StyledContent {
+    position: relative;
+}
+.css-14h9j33 {
+    display: flex;
+    flex-direction: column;
+    padding: 16px 16px 12px;
+}
+.css-1990w8e {
+    display: flex;
+    flex-direction: column;
+    padding: 32px 48px;
+}
+.css-1ir6wju {
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 700;
+}
+.css-19i35n1-StyledPageHeaderDescription {
+    margin: -20px 0px 0px;
+    padding: 0px 0px 30px 50px;
+    letter-spacing: -0.3px;
+    color: rgb(140, 140, 155);
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 400;
+}
+.css-111srd0-StyledCardWrapper-StyledCard {
+    margin: 20px;
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(231, 231, 237);
+    min-width: 1030px;
+}
+.css-h2nfdk-CardHeaderWrapper {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    padding: 20px 28px;
+    box-sizing: border-box;
+    border-bottom: 1px solid rgb(231, 231, 237);
+}
+.css-k26uuj {
+    font-size: 17px;
+    line-height: 24px;
+    font-weight: 700;
+    color: rgb(54, 54, 68);
+}
+.css-1lfj4wy {
+    display: flex;
+    flex-direction: column;
+}
+.css-1m8osiy-TabContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 28px;
+    border-bottom: 1px solid rgb(231, 231, 237);
+}
+.css-qjelni {
+    display: flex;
+    flex-direction: column;
+}
+.css-1tgmd5q-Container {
+    display: flex;
+    flex-flow: row wrap;
+    row-gap: 20px;
+}
+.css-2riptq {
+    display: flex;
+    flex-direction: column;
+}
+.css-12724j6 {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-o33msp {
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 600;
+}
+.css-1bbwwms {
+    display: flex;
+    flex-direction: row;
+}
+.css-2riptq > * + * {
+    margin-top: 10px;
+}
+.css-ovi2s2-TabItem-Selected {
+    cursor: pointer;
+    padding: 3px 7px;
+    border-radius: 3px;
+    min-width: 121px;
+    max-width: 131px;
+    position: relative;
+    box-sizing: border-box;
+    border: 1px solid rgb(64, 94, 222);
+    background: rgb(248, 249, 255);
+    box-shadow: rgba(135, 153, 229, 0.18) 0px 3px 3px;
+}
+.css-jx2yf1 {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-1hj1965 {
+    font-size: 11px;
+    line-height: 18px;
+    font-weight: 400;
+    color: rgb(64, 94, 222);
+}
+.css-z9deye-Count {
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 600;
+    color: rgb(64, 94, 222);
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-top: -4px;
+}
+.css-z9deye-Count .tab-count {
+    margin-right: 2px;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 700;
+}
+.css-gjdo37-Divider {
+    height: 1px;
+    background-color: rgb(64, 94, 222);
+    opacity: 0.2;
+}
+.css-2nqors-TotalCount {
+    font-size: 11px;
+    line-height: 18px;
+    font-weight: 400;
+    color: rgb(64, 94, 222);
+    opacity: 0.7;
+}
+.css-6jk317-TabItem-NotSelected {
+    cursor: pointer;
+    padding: 3px 7px;
+    border-radius: 3px;
+    min-width: 121px;
+    max-width: 131px;
+    position: relative;
+    box-sizing: border-box;
+    border: 1px solid rgb(231, 231, 237);
+}
+.css-vl1ttm {
+    font-size: 11px;
+    line-height: 18px;
+    font-weight: 400;
+    color: rgb(120, 120, 135);
+}
+.css-lcgu5f-Count {
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 600;
+    color: rgb(170, 170, 183);
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-top: -4px;
+}
+.css-lcgu5f-Count .tab-count {
+    margin-right: 2px;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 700;
+}
+.css-9ei8fi-Divider {
+    height: 1px;
+    background-color: rgb(170, 170, 183);
+    opacity: 0.2;
+}
+.css-199xfe4-TotalCount {
+    font-size: 11px;
+    line-height: 18px;
+    font-weight: 400;
+    color: rgb(170, 170, 183);
+    opacity: 0.7;
+}
+.css-nphojf-TabsDivider {
+    width: 1px;
+    height: auto;
+    margin: 0px 12px;
+    background-color: rgb(231, 231, 237);
+}
+.css-un6qtl {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+}
+.css-12724j6 > * + * {
+    margin-left: 5px;
+}
+.css-qjelni > * + * {
+    margin-top: 12px;
+}
+.css-oermqk {
+    font-size: 11px;
+    line-height: 18px;
+    font-weight: 400;
+    color: rgb(170, 170, 183);
+}
+.css-1ivvi5j-ListFilterWrapper {
+    background-color: rgb(250, 250, 252);
+}
+.css-111d98k {
+    display: flex;
+    flex-direction: column;
+    padding: 12px 0px;
+}
+.css-1gl7844-Wrapper {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 10px 28px;
+    box-sizing: border-box;
+}
+.css-n17inv-Label {
+    flex: 0 0 auto;
+    height: 34px;
+    width: 130px;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding-right: 4px;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(120, 120, 135);
+}
+.css-p2fpou-Content {
+    width: 100%;
+}
+.css-3otp9l-StyledSelectWrapper {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(231, 231, 237);
+    position: relative;
+    width: 170px;
+}
+.css-3otp9l-StyledSelectWrapper .e1r4jbf14 {
+    cursor: pointer;
+}
+.css-oi7bev-StyledSelectTextWrapper {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    height: 32px;
+}
+.css-3otp9l-StyledSelectWrapper .e1r4jbf13 {
+    color: rgb(54, 54, 68);
+}
+.css-1qusm4v-StyledSelectValueText {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    margin: 0px 6px 0px 11px;
+}
+.css-1wbr6ns-StyledArrowDownIcon {
+    flex: 0 0 auto;
+    margin: 0px 8px 0px auto;
+}
+.css-1n2mgv0 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    height: auto;
+    margin-bottom: 10px;
+    column-gap: 12px;
+}
+.css-nij78x {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    padding: 5px 11px;
+    max-width: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: rgb(250, 250, 252);
+    border: 1px solid rgb(231, 231, 237);
+    color: rgb(120, 120, 135);
+}
+.css-11fkr9x {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+    column-gap: 12px;
+}
+.css-t91dmx {
+    display: flex;
+    flex-direction: row;
+    column-gap: 12px;
+}
+.css-12cwgo5-StyledPresetWrapper {
+    display: inline;
+}
+.css-lzz876-StyledCalendarButton-StyledRadioButton {
+    cursor: pointer;
+    display: inline-block;
+    vertical-align: middle;
+    font-family: inherit;
+    font-size: 13px;
+    height: 34px;
+    line-height: 34px;
+    background-color: rgb(255, 255, 255);
+    white-space: nowrap;
+    outline: none;
+    color: rgb(54, 54, 68);
+    border: 1px solid rgb(224, 224, 228);
+    position: relative;
+    width: 69px;
+    text-align: center;
+    z-index: 0;
+}
+.css-lzz876-StyledCalendarButton-StyledRadioButton input[type="radio"] {
+    display: none;
+}
+.css-lzz876-StyledCalendarButton-StyledRadioButton:not(:first-of-type) {
+    margin-left: -1px;
+}
+.css-lzz876-StyledCalendarButton-StyledRadioButton:active + .radio_button, .css-lzz876-StyledCalendarButton-StyledRadioButton.focused + .radio_button {
+    border-left: 1px solid rgb(71, 105, 247);
+}
+.css-lzz876-StyledCalendarButton-StyledRadioButton:active, .css-lzz876-StyledCalendarButton-StyledRadioButton.focused {
+    color: rgb(71, 105, 247);
+    border: 1px solid rgb(71, 105, 247);
+}
+.css-15nc1g8-StyledDatePickerWrapper {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(231, 231, 237);
+    position: relative;
+}
+.css-15nc1g8-StyledDatePickerWrapper .e10vz3tv9 {
+    cursor: pointer;
+}
+.css-u4ffcb-StyledDatePickerTextWrapper {
+    box-sizing: border-box;
+    padding: 4px 11px;
+    width: 100%;
+    height: 32px;
+}
+.css-15nc1g8-StyledDatePickerWrapper .e10vz3tv8 {
+    color: rgb(54, 54, 68);
+}
+.css-1cy6d4d-StyledDatePickerValueText {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    padding-right: 22px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+.css-uxcb7y-StyledCalendarIcon {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+}
+.css-xwlbo {
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 400;
+    color: rgb(120, 120, 135);
+}
+.css-ltvmvk-Container {
+    border-top: 1px solid rgb(231, 231, 237);
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 16px 28px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+.css-1bpeccg {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    column-gap: 8px;
+}
+.css-1ktsen9 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px solid transparent;
+    transition: background-color 0.1s linear 0s, border-color 0.1s linear 0s, color 0.1s linear 0s;
+    color: rgb(255, 255, 255);
+    background-color: rgb(71, 105, 247);
+    height: 40px;
+    padding: 0px 16px;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.css-azrxb0 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px solid rgb(231, 231, 237);
+    transition: background-color 0.1s linear 0s, border-color 0.1s linear 0s, color 0.1s linear 0s;
+    color: rgb(54, 54, 68);
+    background-color: rgb(255, 255, 255);
+    height: 40px;
+    padding: 0px 16px;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.css-11ytlqq-CardHeaderWrapper {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    padding: 20px 28px;
+    box-sizing: border-box;
+}
+.css-k26uuj {
+    font-size: 17px;
+    line-height: 24px;
+    font-weight: 700;
+    color: rgb(54, 54, 68);
+}
+.css-zkift7-TableTitleWrapper {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-fowiby {
+    display: flex;
+    flex-direction: row;
+}
+.css-fowiby > * + * {
+    margin-left: 6px;
+}
+.css-1s98xk1-TableContainer {
+    margin: 0px 22px 20px;
+    width: calc(100% - 44px);
+    box-sizing: border-box;
+    border: 1px solid rgb(231, 231, 237);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+.css-1fdixad {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-1jywryj-StyledText {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(90, 90, 104);
+    margin-right: 14px;
+}
+.css-1qvo0no-ButtonOnHover {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px solid rgb(231, 231, 237);
+    transition: background-color 0.1s linear 0s, border-color 0.1s linear 0s, color 0.1s linear 0s;
+    color: rgb(54, 54, 68);
+    background-color: rgb(255, 255, 255);
+    height: 34px;
+    padding: 0px 14px;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    cursor: pointer;
+}
+.css-1fdixad > * + * {
+    margin-left: 6px;
+}
+.css-1t57yb2 {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-g6jcoh-ButtonOnHover:disabled {
+    color: rgb(193, 193, 203);
+    background-color: rgb(250, 250, 252);
+    border-color: rgb(231, 231, 237);
+}
+.css-g6jcoh-ButtonOnHover {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px solid rgb(231, 231, 237);
+    transition: background-color 0.1s linear 0s, border-color 0.1s linear 0s, color 0.1s linear 0s;
+    color: rgb(54, 54, 68);
+    background-color: rgb(255, 255, 255);
+    height: 34px;
+    padding: 0px 14px;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    cursor: not-allowed;
+}
+.css-t1ytaf-StyledButton {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px solid rgb(231, 231, 237);
+    transition: background-color 0.1s linear 0s, border-color 0.1s linear 0s, color 0.1s linear 0s;
+    color: rgb(54, 54, 68);
+    background-color: rgb(255, 255, 255);
+    height: 34px;
+    padding: 0px 14px;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    cursor: pointer;
+}
+.css-t1ytaf-StyledButton svg {
+    margin-right: 4px;
+}
+.css-1ysyhy1-TableHeader {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    background-color: rgb(250, 250, 252);
+}
+.css-3otp9l-StyledSelectWrapper .e1r4jbf11 path {
+    fill: rgb(54, 54, 68);
+}
+.css-cev4zg-StyledInput {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    padding: 5px 11px;
+    max-width: 100%;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(231, 231, 237);
+    color: rgb(54, 54, 68);
+    width: 170px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.css-zbrhtb {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px solid transparent;
+    transition: background-color 0.1s linear 0s, border-color 0.1s linear 0s, color 0.1s linear 0s;
+    color: rgb(255, 255, 255);
+    background-color: rgb(71, 105, 247);
+    height: 34px;
+    padding: 0px 14px;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    cursor: pointer;
+}
+.css-m65mcq-TableBody {
+    width: calc(100% + 2px);
+    overflow: auto;
+    margin: -1px;
+    height: 600px;
+}
+.css-m65mcq-TableBody > table {
+    margin: 0px;
+}
+.css-1a5vx1a-StyledTable tbody {
+    font-size: 13px;
+}
+.css-1a5vx1a-StyledTable {
+    position: relative;
+    min-width: 100%;
+    border-collapse: separate;
+    border-spacing: 0px;
+    border-left: 1px solid rgb(231, 231, 237);
+    width: 1320px;
+    table-layout: fixed;
+}
+.css-m65mcq-TableBody > table > thead > tr > th, .css-m65mcq-TableBody > table > tbody > tr > td {
+    background-clip: padding-box;
+}
+.css-164u3dl-StyledTh {
+    width: 40px;
+    min-width: 40px;
+    position: sticky;
+    top: 0px;
+    z-index: 3;
+    left: 0px;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+}
+.css-164u3dl-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-164u3dl-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-164u3dl-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-31dcav-StyledInput-StyledCheckbox {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    min-width: 24px;
+    height: 24px;
+    cursor: pointer;
+    user-select: none;
+    position: absolute;
+    top: 8px;
+    margin-left: -6px;
+}
+.css-31dcav-StyledInput-StyledCheckbox input {
+    display: none;
+}
+.css-31dcav-StyledInput-StyledCheckbox .checkmark {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    height: 18px;
+    width: 18px;
+    border: 1px solid rgb(224, 224, 228);
+    background-color: rgb(255, 255, 255);
+}
+.css-1vzk49l-StyledTh {
+    width: 160px;
+    min-width: 160px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    left: auto;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+}
+.css-1vzk49l-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-1vzk49l-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-1vzk49l-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-ait51x-StyledTh {
+    width: 120px;
+    min-width: 120px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    left: auto;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+}
+.css-ait51x-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-ait51x-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-ait51x-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-ait51x-StyledTh .header-col__hover-icon {
+    margin-left: 3px;
+}
+.css-124ql05-StyledHoverIcon {
+    position: relative;
+}
+.css-124ql05-StyledHoverIcon .hover-icon__icon {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-1r5ybcw-StyledTh {
+    width: 150px;
+    min-width: 150px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    left: auto;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+}
+.css-1r5ybcw-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-1r5ybcw-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-1r5ybcw-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-1r5ybcw-StyledTh .header-col__hover-icon {
+    margin-left: 3px;
+}
+.css-124ql05-StyledHoverIcon {
+    position: relative;
+}
+.css-124ql05-StyledHoverIcon .hover-icon__icon {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-1gv3gtp-StyledTh {
+    width: 185px;
+    min-width: 185px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    left: auto;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+}
+.css-1gv3gtp-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-1gv3gtp-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-1gv3gtp-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-8oaqeg-StyledTh {
+    width: 140px;
+    min-width: 140px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    left: auto;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+}
+.css-8oaqeg-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-8oaqeg-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-8oaqeg-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-1vzk49l-StyledTh .header-col__hover-icon {
+    margin-left: 3px;
+}
+.css-baak7x-StyledTh {
+    width: 110px;
+    min-width: 110px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    left: auto;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+}
+.css-baak7x-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-baak7x-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-baak7x-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-baak7x-StyledTh .header-col__hover-icon {
+    margin-left: 3px;
+}
+.css-1qd7pxy-StyledTh {
+    width: 280px;
+    min-width: 280px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    left: auto;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+}
+.css-1qd7pxy-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-1qd7pxy-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-1qd7pxy-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-1te8e6h-StyledTh {
+    width: 80px;
+    min-width: 80px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    left: auto;
+    height: 40px;
+    border-width: 1px 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-top-color: rgb(231, 231, 237);
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    background-color: rgb(250, 250, 252);
+    vertical-align: middle;
+    padding: 0px;
+}
+.css-1te8e6h-StyledTh .header-col {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+    padding: 9px 12px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+.css-1te8e6h-StyledTh .header-col__label {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+}
+.css-1te8e6h-StyledTh .header-col__text {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-1hjll2h-TableDataHeader {
+    text-align: left;
+    position: sticky;
+    left: 0px;
+    background: white;
+    z-index: 1;
+    vertical-align: middle;
+    height: 64px;
+    padding: 0px 12px;
+    white-space: normal;
+    border-width: 0px 1px 1px 0px;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    border-top-style: initial;
+    border-top-color: initial;
+}
+.css-1a5vx1a-StyledTable .cell {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    height: 100%;
+}
+.css-upy428-StyledInput {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    position: relative;
+    min-width: 24px;
+    height: 24px;
+    cursor: pointer;
+    user-select: none;
+}
+.css-upy428-StyledInput input {
+    display: none;
+}
+.css-upy428-StyledInput .checkmark {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    height: 18px;
+    width: 18px;
+    border: 1px solid rgb(224, 224, 228);
+    background-color: rgb(255, 255, 255);
+}
+.css-upy428-StyledInput input:checked ~ .checkmark {
+    background-color: rgb(71, 105, 247);
+    border: 1px solid rgb(64, 94, 222);
+}
+.css-upy428-StyledInput .checkmark::after {
+    left: 5px;
+    top: 1px;
+    width: 6px;
+    height: 10px;
+    border-style: solid;
+    border-color: white;
+    border-image: initial;
+    border-width: 0px 2px 2px 0px;
+    transform: rotate(45deg);
+}
+.css-1a5vx1a-StyledTable td {
+    position: relative;
+    padding: 0px;
+    height: 74px;
+    vertical-align: top;
+    border-width: 0px 1px 1px 0px;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-right-color: rgb(231, 231, 237);
+    border-bottom-color: rgb(231, 231, 237);
+    border-image: initial;
+    border-left-style: initial;
+    border-left-color: initial;
+    border-top-style: initial;
+    border-top-color: initial;
+}
+.css-15dein8-TableRow > td {
+    vertical-align: middle;
+    height: 64px;
+    padding: 0px 12px;
+    white-space: normal;
+}
+.css-jkj1wk-Button {
+    padding: 0px;
+    border: none;
+    background: none;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(71, 105, 247);
+    cursor: pointer;
+}
+.css-1ny21uh-StyledSelectWrapper {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(231, 231, 237);
+    position: relative;
+    width: 160px;
+}
+.css-1ny21uh-StyledSelectWrapper .e1r4jbf14 {
+    cursor: pointer;
+}
+.css-1ny21uh-StyledSelectWrapper .e1r4jbf13 {
+    color: rgb(54, 54, 68);
+}
+.css-1jr3u5t {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    padding: 5px 11px;
+    max-width: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(231, 231, 237);
+    color: rgb(54, 54, 68);
+}
+.css-1iwvg1m-StyledChannelIconWithText {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    column-gap: 6px;
+}
+.css-15feh2l-Icon {
+    flex: 0 0 auto;
+}
+.css-ljwn00-TableHeader-TableFooter {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    background-color: rgb(250, 250, 252);
+    border-top: 1px solid rgb(231, 231, 237);
+    z-index: 1;
+}
+.css-i0hdvm {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px solid rgb(231, 231, 237);
+    transition: background-color 0.1s linear 0s, border-color 0.1s linear 0s, color 0.1s linear 0s;
+    color: rgb(54, 54, 68);
+    background-color: rgb(255, 255, 255);
+    height: 34px;
+    padding: 0px 14px;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    cursor: pointer;
+}

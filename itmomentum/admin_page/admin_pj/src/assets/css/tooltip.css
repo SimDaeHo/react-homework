@@ -1,0 +1,52 @@
+    .css-16fremm-StyledTooltip {
+        border: 1px solid rgb(54, 54, 68);
+        background: rgb(255, 255, 255);
+        z-index: 1;
+    }
+    .css-q7jt1a {
+        display: flex;
+        flex-direction: column;
+        width: 300px;
+        margin: 20px;
+        text-align: left;
+        color: rgb(54, 54, 68);
+    }
+    .css-1yx410a {
+        font-size: 15px;
+        line-height: 26px;
+        font-weight: 600;
+    }
+    .css-1voxopm {
+        font-size: 13px;
+        line-height: 22px;
+        font-weight: 400;
+    }
+    .css-q7jt1a > * + * {
+        margin-top: 12px;
+    }
+    .css-16fremm-StyledTooltip[data-popper-placement^="top"] > #arrow {
+        bottom: -6px;
+    }
+    .css-16fremm-StyledTooltip #arrow {
+        visibility: hidden;
+    }
+    .css-16fremm-StyledTooltip #arrow, .css-16fremm-StyledTooltip #arrow::before {
+        position: absolute;
+        width: 12px;
+        height: 12px;
+        background: inherit;
+    }
+    .css-16fremm-StyledTooltip #arrow::before {
+        visibility: visible;
+        content: "";
+        transform: rotate(45deg);
+        border-right: 1px solid rgb(54, 54, 68);
+        border-bottom: 1px solid rgb(54, 54, 68);
+        background: rgb(255, 255, 255);
+    }
+    .css-16fremm-StyledTooltip #arrow, .css-16fremm-StyledTooltip #arrow::before {
+        position: absolute;
+        width: 12px;
+        height: 12px;
+        background: inherit;
+    }

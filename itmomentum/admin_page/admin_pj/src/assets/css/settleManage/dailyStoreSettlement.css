@@ -1,0 +1,638 @@
+.css-d1qpch {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 1px solid rgb(224, 224, 228);
+    padding: 32px 48px;
+    overflow-wrap: break-word;
+}
+.css-wopf89 {
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+}
+.css-1kyfulo {
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 700;
+    color: rgb(54, 54, 68);
+}
+.css-1a0bs0a {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    overflow-wrap: anywhere;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    column-gap: 16px;
+}
+.css-nhc06y {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    row-gap: 8px;
+}
+.css-7vhc5s {
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    color: rgb(120, 120, 135);
+}
+.css-b3365v {
+    display: flex;
+    flex-direction: row;
+    margin: 16px;
+    column-gap: 16px;
+}
+.css-j8cvne-Container-StyledBox {
+    overflow: hidden;
+    background: rgb(255, 255, 255);
+    padding: 0px;
+    margin: 0px;
+    border-radius: 16px;
+    flex: 1 1 0%;
+}
+.css-1hkgefa-CurrencySummary {
+    font-size: 17px;
+    line-height: 24px;
+    font-weight: 700;
+    color: rgb(54, 54, 68);
+    padding: 20px 20px 8px;
+}
+.css-16edd0b {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 20px 20px;
+}
+.css-zowdb-ContentLayout {
+    flex: 1 1 0%;
+    position: relative;
+    background-color: rgb(250, 250, 252);
+    padding: 16px 20px;
+}
+.css-1s2sib0 {
+    font-size: 15px;
+    line-height: 26px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+}
+.css-1liea45 {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 700;
+    color: rgb(71, 105, 247);
+}
+.css-tm0a81 {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(90, 90, 104);
+}
+.css-j8cvne-Container-StyledBox .eutm0me1 + .eutm0me1::before {
+    content: "";
+    position: absolute;
+    width: 1px;
+    height: 44px;
+    left: 0px;
+    top: 40px;
+    background-color: rgb(231, 231, 237);
+}
+.css-un1lj4 {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 700;
+    color: rgb(54, 54, 68);
+}
+.css-1n47yeg {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    column-gap: 3px;
+}
+.css-j8cvne-Container-StyledBox .eutm0me1 + .eutm0me1::before {
+    content: "";
+    position: absolute;
+    width: 1px;
+    height: 44px;
+    left: 0px;
+    top: 40px;
+    background-color: rgb(231, 231, 237);
+}
+.css-8w80mn {
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 700;
+    color: rgb(54, 54, 68);
+}
+.css-1wp8h2n-Container {
+    overflow: hidden;
+    background: rgb(255, 255, 255);
+    padding: 0px;
+    margin: 16px;
+    border-radius: 16px;
+}
+.css-1yak3fi-DailySummary {
+    font-size: 17px;
+    line-height: 24px;
+    font-weight: 700;
+    color: rgb(54, 54, 68);
+    padding: 20px 28px;
+}
+.css-118t88h {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 20px 20px;
+}
+.css-18vmksf {
+    overflow: auto;
+    border: 1px solid rgb(224, 224, 228);
+    border-radius: 8px;
+}
+.css-1wk99q2 {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0px;
+    table-layout: auto;
+}
+.css-145pd7g {
+    background-color: rgb(250, 250, 252);
+    padding: 0px 12px;
+    height: 48px;
+    z-index: 2;
+    vertical-align: middle;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+    text-align: left;
+    border: 1px solid rgb(224, 224, 228);
+    transition: all 0.1s linear 0s;
+    width: 100px;
+}
+.css-1kzxzoe {
+    background-color: rgb(250, 250, 252);
+    padding: 0px 12px;
+    height: 48px;
+    z-index: 2;
+    vertical-align: middle;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+    text-align: left;
+    border: 1px solid rgb(224, 224, 228);
+    transition: all 0.1s linear 0s;
+    width: 80px;
+}
+.css-19aorz9 {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    column-gap: 2px;
+}
+.css-5kjaa3 {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-hokdhx:first-of-type th {
+    border-top: none;
+    border-left: none;
+}
+.css-1dfmdu {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+.css-hokdhx:first-of-type th:last-of-type {
+    border-right: none;
+}
+.css-2nhu3m {
+    background-color: rgb(250, 250, 252);
+    padding: 0px 12px;
+    height: 48px;
+    z-index: 2;
+    vertical-align: middle;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+    text-align: left;
+    border: 1px solid rgb(224, 224, 228);
+    transition: all 0.1s linear 0s;
+    width: 194px;
+}
+.css-1n0et30 {
+    background-color: rgb(255, 255, 255);
+    transition: all 0.1s linear 0s;
+}
+.css-sx4n3i {
+    vertical-align: middle;
+    color: rgb(54, 54, 68);
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    padding: 12px;
+    border-right: 1px solid rgb(224, 224, 228);
+    border-bottom: 1px solid rgb(224, 224, 228);
+    border-image: initial;
+    border-top: none;
+    border-left: none;
+}
+.css-1n0et30:last-of-type td {
+    border-bottom: none;
+}
+.css-1p07ml5 {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-sx4n3i:last-of-type {
+    border-right: none;
+}
+.css-1wjr0cd {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 28px;
+    padding: 28px 0px;
+}
+.css-1bpeccg {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    column-gap: 8px;
+}
+.css-1ie82u3 {
+    flex: 0 0 auto;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(120, 120, 135);
+    width: 120px;
+    min-width: 80px;
+}
+.css-1d3w5wq {
+    width: 100%;
+}
+.css-1wdg8xl {
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+}
+.css-dq3h6z {
+    display: flex;
+    flex-direction: row;
+    column-gap: 8px;
+}
+.css-hu1581 {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    max-width: 100%;
+    display: inline-flex;
+    transition: border-color 0.1s linear 0s;
+    -webkit-box-align: center;
+    align-items: center;
+    border-radius: 8px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    border: 1px solid rgb(224, 224, 228);
+    background-color: rgb(255, 255, 255);
+    height: 38px;
+    column-gap: 8px;
+    padding: 8px 12px;
+    color: rgb(54, 54, 68);
+    width: 170px;
+    cursor: pointer;
+}
+.css-1voxopm {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+}
+.css-57nmr1 {
+    flex: 0 0 auto;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-ecslkm {
+    cursor: pointer;
+}
+.css-1oiv3ae {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    column-gap: 12px;
+}
+.css-zjik7 {
+    display: flex;
+}
+.css-pmzw0w:first-of-type {
+    border-radius: 8px 0px 0px 8px;
+}
+.css-pmzw0w {
+    cursor: pointer;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    height: 38px;
+    width: 64px;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    color: rgb(54, 54, 68);
+    border: 1px solid rgb(224, 224, 228);
+    background-color: rgb(255, 255, 255);
+}
+.css-48q9js {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0px;
+    width: 0px;
+}
+.css-pmzw0w:not(:first-of-type) {
+    margin-left: -1px;
+}
+.css-pmzw0w:last-of-type {
+    border-radius: 0px 8px 8px 0px;
+}
+.css-1f2uixl {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.css-68n73f {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    max-width: 100%;
+    width: 100%;
+    display: inline-flex;
+    transition: border-color 0.1s linear 0s;
+    -webkit-box-align: center;
+    align-items: center;
+    border-radius: 8px;
+    height: 38px;
+    column-gap: 8px;
+    padding: 8px 12px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(224, 224, 228);
+    color: rgb(54, 54, 68);
+    position: relative;
+}
+.css-6dbl6v {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    max-width: 100%;
+    width: 100%;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 46px;
+    column-gap: 8px;
+    color: rgb(54, 54, 68);
+    position: relative;
+    border: 0px;
+    border-radius: 0px;
+    background-color: transparent;
+    padding: 0px;
+    transition: none 0s ease 0s;
+}
+.css-1bzidbt {
+    width: 100%;
+    padding: 0px;
+    border: none;
+    outline: none;
+    background: none;
+    text-align: left;
+}
+.css-102xykj {
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    color: rgb(120, 120, 135);
+}
+.css-d2kyxa-Container {
+    border-top: 1px solid rgb(231, 231, 237);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 0px 28px;
+    padding: 28px 0px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+.css-1om3yua {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    text-align: center;
+    white-space: nowrap;
+    border: 1px solid transparent;
+    transition: background-color 0.1s linear 0s, border-color 0.1s linear 0s, color 0.1s linear 0s;
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(71, 105, 247);
+    height: 46px;
+    padding: 0px 20px;
+    column-gap: 4px;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.css-1trcgtd-StyledButton {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    text-align: center;
+    white-space: nowrap;
+    transition: background-color 0.1s linear 0s, border-color 0.1s linear 0s, color 0.1s linear 0s;
+    border-radius: 8px;
+    color: rgb(54, 54, 68);
+    background-color: rgb(255, 255, 255);
+    height: 46px;
+    padding: 0px 20px;
+    column-gap: 4px;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 500;
+    cursor: pointer;
+    border: none;
+}
+.css-ahx503 {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 28px;
+    padding: 20px 0px;
+}
+.css-3i0tmi {
+    overflow: auto;
+    border: 1px solid rgb(224, 224, 228);
+    border-radius: 8px;
+    max-height: 600px;
+    border-start-end-radius: 0px;
+    border-end-end-radius: 0px;
+}
+.css-10cl1e4 {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0px;
+    table-layout: fixed;
+}
+.css-1eytha2 {
+    background-color: rgb(250, 250, 252);
+    padding: 0px 12px;
+    height: 48px;
+    z-index: 2;
+    vertical-align: middle;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+    text-align: left;
+    border: 1px solid rgb(224, 224, 228);
+    transition: all 0.1s linear 0s;
+    position: sticky;
+    top: 0px;
+    width: 100px;
+}
+.css-wq45gk {
+    background-color: rgb(250, 250, 252);
+    padding: 0px 12px;
+    height: 48px;
+    z-index: 2;
+    vertical-align: middle;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+    text-align: left;
+    border: 1px solid rgb(224, 224, 228);
+    transition: all 0.1s linear 0s;
+    position: sticky;
+    top: 0px;
+    width: 90px;
+}
+.css-33baaa {
+    background-color: rgb(250, 250, 252);
+    padding: 0px 12px;
+    height: 48px;
+    z-index: 2;
+    vertical-align: middle;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+    text-align: left;
+    border: 1px solid rgb(224, 224, 228);
+    transition: all 0.1s linear 0s;
+    position: sticky;
+    top: 0px;
+    width: 120px;
+}
+.css-zb3ll0 {
+    background-color: rgb(250, 250, 252);
+    padding: 0px 12px;
+    height: 48px;
+    z-index: 2;
+    vertical-align: middle;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 600;
+    color: rgb(54, 54, 68);
+    text-align: left;
+    border: 1px solid rgb(224, 224, 228);
+    transition: all 0.1s linear 0s;
+    position: sticky;
+    top: 0px;
+    width: 180px;
+}
+.css-pp8opn {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    padding-top: 16px;
+}
+.css-8qpiss {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 4px;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+.css-16vnhk1 {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    white-space: nowrap;
+    border: 1px solid transparent;
+    padding: 0px;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    border-radius: 8px;
+    transition: all 0.1s linear 0s;
+    cursor: default;
+    background-color: rgb(255, 255, 255);
+    color: rgb(193, 193, 203);
+}
+.css-r7d4ay {
+    display: inline-block;
+    list-style: none;
+    text-align: center;
+    vertical-align: middle;
+}
+.css-19i28yy {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    white-space: nowrap;
+    border: 1px solid transparent;
+    padding: 0px;
+    font-size: 13px;
+    line-height: 22px;
+    font-weight: 400;
+    border-radius: 8px;
+    transition: all 0.1s linear 0s;
+    color: rgb(255, 255, 255);
+    background-color: rgb(71, 105, 247);
+    cursor: pointer;
+}
